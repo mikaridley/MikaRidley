@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mika Ridley</h1>
+<h1 align="center">Hi 👋, I'm Mika</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
   <img src="github-avatar.png" width="260" />
