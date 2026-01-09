@@ -12,5 +12,5 @@
 <a href="https://linkedin.com/in/mikaridley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikaridley" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **mika.ridley26@gmail.com**
+📫 How to reach me **mika.ridley26@gmail.com**
 
