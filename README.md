@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mika</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
-  <img src="github-avatar.png" width="600" />
+  <img src="github-avatar.png" width="1000" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
